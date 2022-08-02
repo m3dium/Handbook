@@ -13,5 +13,7 @@ Thông báo lỗi từ lệnh được gửi qua stderr (lỗi tiêu chuẩn) lu
 Những giá trị này luôn được sử dụng cho stdin, stdout, và stderr:
 
 0: stdin
+
 1: stdout
+
 2: stderr
