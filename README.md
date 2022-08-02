@@ -17,3 +17,10 @@ Những giá trị này luôn được sử dụng cho stdin, stdout, và stderr
 1: stdout
 
 2: stderr
+
+
+#2: Shell code là gì ????
+
+Shell code được sử dụng để mô tả code được thực thi bởi một target program do khai thác lỗ hổng bảo mật và được sử dụng để mở một shell từ xa (1 phiên bản của command line interpreter)
+
+Mục đích để hacker có thể sử dụng shell đó để tiếp tục tương tác với hệ thống của nạn nhân
